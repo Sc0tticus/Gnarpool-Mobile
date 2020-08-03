@@ -1,0 +1,12 @@
+{
+  "name": "gnarpool-carpool-mobileapp",
+  "displayName": "gnarpool-carpool-mobileapp",
+  "expo": {
+    "name": "gnarpool-carpool-mobileapp",
+    "slug": "gnarpool-carpool-mobileapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
